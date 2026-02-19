@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.4.0">
+  <diagram id="7gcUSTIZ7YSJ5vT40chW" name="Page-1">
+    <mxGraphModel dx="1051" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Usmd7p7YSqKlumTkWhLi-1" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" value="test database" vertex="1">
+          <mxGeometry height="64" width="48" x="140" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Usmd7p7YSqKlumTkWhLi-14" edge="1" parent="1" source="Usmd7p7YSqKlumTkWhLi-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" target="Usmd7p7YSqKlumTkWhLi-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Usmd7p7YSqKlumTkWhLi-4" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;" value="dev 1" vertex="1">
+          <mxGeometry height="66.5" width="89.18" x="42" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Usmd7p7YSqKlumTkWhLi-9" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="119.10000000000002" width="88" x="900" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Usmd7p7YSqKlumTkWhLi-8" parent="Usmd7p7YSqKlumTkWhLi-9" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" value="" vertex="1">
+          <mxGeometry height="69.1" width="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Usmd7p7YSqKlumTkWhLi-7" parent="Usmd7p7YSqKlumTkWhLi-9" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" value="" vertex="1">
+          <mxGeometry height="60" width="73.17" x="14.829999999999984" y="59.10000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="Usmd7p7YSqKlumTkWhLi-11" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" value="test app service" vertex="1">
+          <mxGeometry height="64" width="64" x="320" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Usmd7p7YSqKlumTkWhLi-12" edge="1" parent="1" source="Usmd7p7YSqKlumTkWhLi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.963;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;" target="Usmd7p7YSqKlumTkWhLi-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Usmd7p7YSqKlumTkWhLi-15" edge="1" parent="1" source="Usmd7p7YSqKlumTkWhLi-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" target="Usmd7p7YSqKlumTkWhLi-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Usmd7p7YSqKlumTkWhLi-13" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;" value="dev 2" vertex="1">
+          <mxGeometry height="66.5" width="89.18" x="170" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Usmd7p7YSqKlumTkWhLi-16" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" value="test database" vertex="1">
+          <mxGeometry height="64" width="48" x="600" y="372.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Usmd7p7YSqKlumTkWhLi-19" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;" value="dev 1" vertex="1">
+          <mxGeometry height="66.5" width="89.18" x="42" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="Usmd7p7YSqKlumTkWhLi-20" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" value="local database" vertex="1">
+          <mxGeometry height="59.1" width="50" x="259.18" y="697.4000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="Usmd7p7YSqKlumTkWhLi-21" edge="1" parent="1" source="Usmd7p7YSqKlumTkWhLi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.037;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" target="Usmd7p7YSqKlumTkWhLi-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Usmd7p7YSqKlumTkWhLi-22" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;" value="dev 1" vertex="1">
+          <mxGeometry height="66.5" width="89.18" x="440" y="693.7" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
